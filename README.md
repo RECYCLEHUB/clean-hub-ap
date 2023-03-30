@@ -14,8 +14,8 @@
 
 ## Team Members
 
-- Kabeer Akanni : Figma Designs plus backend
-- Jamiu Ismail: Full Stack Developer
+- [Suara Ayomide](github.com/aysuarex) : Frontend and Backend
+- [Jamiu Ismail](github.com/phantware): Full Stack Developer
 
 ---
 
