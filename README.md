@@ -16,6 +16,7 @@
 
 - [Suara Ayomide](github.com/aysuarex) : Frontend and Backend
 - [Jamiu Ismail](github.com/phantware): Full Stack Developer
+- Precious
 
 ---
 
