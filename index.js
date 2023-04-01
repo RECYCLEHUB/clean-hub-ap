@@ -13,8 +13,8 @@ const corsOption = {
 }
 
 const corsOptions = {
-  origin: 'https://cleanhub.netlify.app',
-  // origin: 'http://localhost:3000',
+  // origin: 'https://cleanhub.netlify.app',
+  origin: 'http://localhost:3000',
   credentials: true, //access-control-allow-credentials:true
   optionSuccessStatus: 200,
 }
